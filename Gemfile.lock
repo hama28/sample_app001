@@ -201,7 +201,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   duktape
   jbuilder (~> 2.5)
-  puma (~> 3.11)
+  puma (~> 4.3)
   rails (~> 5.2.3)
   sass-rails (~> 5.0)
   selenium-webdriver
